@@ -2,7 +2,7 @@
 title: "Reproduciable Research Project 1"
 author: "Wahsabii Neandertal"
 date: "Sunday, April 19, 2015"
-output: pdf_document
+output: html_document
 ---
 
 ## Abstract
